@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/waite0603/cdn@latest/————.js
